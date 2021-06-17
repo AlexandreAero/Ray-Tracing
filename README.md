@@ -4,6 +4,9 @@ A ray tracer for the Unity game engine. Used languages are C# and HLSL
 
 ![image](https://user-images.githubusercontent.com/66020831/122442613-0aa0eb80-cf9f-11eb-9937-15c53994dfad.png)
 
+## Folder structure
+The ``RawEpisodes`` folder contains the Unity project from the tutorial. The ``RayTracer``folder contains our own interpretation of this project.
+
 ## Features
 - [x] Ray tracing basics
 - [x] Anti aliasing
@@ -14,3 +17,4 @@ A ray tracer for the Unity game engine. Used languages are C# and HLSL
 - [x] Denoising algorithm
 - [x] Support external 3D models (not limited to Unity's primitives)
 - [ ] BHV structure
+
